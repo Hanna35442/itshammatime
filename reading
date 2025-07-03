@@ -1,0 +1,109 @@
+      <!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work -->
+      <style type="text/css" media="screen">
+  .gr_custom_container_1751558266 {
+    /* customize your Goodreads widget container here*/
+    border: 1px solid gray;
+    border-radius:10px;
+    padding: 10px 5px 10px 5px;
+    background-color: transparent;
+    color: #9ccc65 ;
+    
+  }
+  .gr_custom_header_1751558266 {
+    /* customize your Goodreads header here*/
+    border-bottom: 1px solid gray;
+    width: 100%;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 120%
+  }
+  .gr_custom_each_container_1751558266 {
+    /* customize each individual book container here */
+    width: 100%;
+    clear: both;
+    margin-bottom: 10px;
+    overflow: auto;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #aaa;
+  }
+  .gr_custom_book_container_1751558266 {
+    /* customize your book covers here */
+    overflow: hidden;
+    height: 60px;
+      float: left;
+      margin-right: 4px;
+      width: 39px;
+  }
+  .gr_custom_author_1751558266 {
+    /* customize your author names here */
+    font-size: 10px;
+  }
+  .gr_custom_tags_1751558266 {
+    /* customize your tags here */
+    font-size: 10px;
+    color: gray;
+  }
+  .gr_custom_rating_1751558266 {
+    /* customize your rating stars here */
+    float: right;
+  }
+</style>
+
+      <div id="gr_custom_widget_1751558266">
+          <div class="gr_custom_container_1751558266">
+    <h2 class="gr_custom_header_1751558266">
+    <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/140963203-hanna-goldfarb?shelf=read&amp;utm_medium=api&amp;utm_source=custom_widget">Hanna&#39;s bookshelf: read</a>
+    </h2>
+      <div class="gr_custom_each_container_1751558266">
+          <div class="gr_custom_book_container_1751558266">
+            <a title="The Road to Tender Hearts" rel="nofollow" href="https://www.goodreads.com/review/show/7587831614?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Road to Tender Hearts" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729826481l/218460347._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_1751558266">
+            <span class=" staticStars notranslate" title="it was ok"><img alt="it was ok" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
+          </div>
+          <div class="gr_custom_title_1751558266">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/7587831614?utm_medium=api&amp;utm_source=custom_widget">The Road to Tender Hearts</a>
+          </div>
+          <div class="gr_custom_author_1751558266">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/15565382.Annie_Hartnett">Annie  Hartnett</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1751558266">
+          <div class="gr_custom_book_container_1751558266">
+            <a title="Catch-22" rel="nofollow" href="https://www.goodreads.com/review/show/7317855886?utm_medium=api&amp;utm_source=custom_widget"><img alt="Catch-22" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463157317l/168668._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_1751558266">
+            <span class=" staticStars notranslate" title="really liked it"><img alt="really liked it" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
+          </div>
+          <div class="gr_custom_title_1751558266">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/7317855886?utm_medium=api&amp;utm_source=custom_widget">Catch-22</a>
+          </div>
+          <div class="gr_custom_author_1751558266">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/3167.Joseph_Heller">Joseph Heller</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_1751558266">
+          <div class="gr_custom_book_container_1751558266">
+            <a title="The Library at Mount Char" rel="nofollow" href="https://www.goodreads.com/review/show/7317840809?utm_medium=api&amp;utm_source=custom_widget"><img alt="The Library at Mount Char" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453225113l/26892110._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_1751558266">
+            <span class=" staticStars notranslate" title="it was amazing"><img alt="it was amazing" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /></span>
+          </div>
+          <div class="gr_custom_title_1751558266">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/7317840809?utm_medium=api&amp;utm_source=custom_widget">The Library at Mount Char</a>
+          </div>
+          <div class="gr_custom_author_1751558266">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/8446300.Scott_Hawkins">Scott  Hawkins</a>
+          </div>
+      </div>
+  <br style="clear: both"/>
+  <center>
+    <a rel="nofollow" href="https://www.goodreads.com/"><img alt="goodreads.com" style="border:0" src="https://s.gr-assets.com/images/widget/widget_logo.gif" /></a>
+  </center>
+  <noscript>
+    Share <a rel="nofollow" href="https://www.goodreads.com/">book reviews</a> and ratings with Hanna, and even join a <a rel="nofollow" href="https://www.goodreads.com/group">book club</a> on Goodreads.
+  </noscript>
+  </div>
+
+      </div>
+      <script src="https://www.goodreads.com/review/custom_widget/140963203.Hanna's%20bookshelf:%20read?cover_position=left&cover_size=small&num_books=3&order=d&shelf=read&show_author=1&show_cover=1&show_rating=1&show_review=0&show_tags=1&show_title=1&sort=date_added&widget_bg_color=9ccc65+&widget_bg_transparent=true&widget_border_width=1&widget_id=1751558266&widget_text_color=9ccc65+&widget_title_size=medium&widget_width=full" type="text/javascript" charset="utf-8"></script>
